@@ -5,7 +5,6 @@ Features:
 
 1.Machine Learning Model: 
                         Utilizes scikit-learn for predictive analysis, predicting the percentage of marks based on study hours.
-
 2.Web Interface:  
                 Developed using Flask to handle user inputs and display prediction results dynamically.
 
